@@ -39,4 +39,4 @@ async def guess(ctx):
         NIGGAR()
         await ctx.send("[DEBUG] If you see this, bluescreen failed.")
 
-bot.run("MTAyNjg5OTE0MDA4MjQyMTgxMQ.GOfQEw.pNpaLTJ6C8XYxE-fvN1kg44hVF3l7BudCW_FKg")
+bot.run("INSERT TOKEN HERE")
